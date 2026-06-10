@@ -1,0 +1,18 @@
+set_A=set()
+set_B=set()
+count_a=int(input("enter the number of elements to be added: "))
+for i in range(1,count_a+1):
+    a=input("enter the value: ")
+    set_A.add(a)
+print(set_A)
+count_b=int(input("enter the number of elements to be added: "))
+for i in range(1,count_b+1):
+    b=input("enter the value: ")
+    set_B.add(b)
+print(set_B)
+intersection=set_A.intersection(set_B)
+print("common: ",intersection)
+union=set_A.union(set_B)
+print("union: ",union)
+difference=set_A.difference(set_B)
+print("difference: ",difference)
