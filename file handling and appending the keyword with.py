@@ -1,0 +1,5 @@
+file=open("notes.txt","a")
+file.write("\nwelcome to file handling")
+file.write("\nI hope u love file handling")
+file.write("\nLet's continue the journey of learning throughtout our life")
+file.close()
