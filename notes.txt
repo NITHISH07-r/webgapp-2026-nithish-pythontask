@@ -5,9 +5,4 @@ I expect u to learn the course and use it in your life.
 welcome to file handling
 I hope u love file handling
 Let's continue the journey of learning throughtout our life
-welcome to file handling
-I hope u love file handling
-Let's continue the journey of learning throughtout our life
-welcome to file handling
-I hope u love file handling
-Let's continue the journey of learning throughtout our life
+Welcome to Python.
