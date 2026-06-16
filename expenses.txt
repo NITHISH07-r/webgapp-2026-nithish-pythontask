@@ -1,0 +1,14 @@
+
+===== EXPENSE SUMMARY =====
+Date: 2026-06-16
+travel     : Rs. 120.0     
+food       : Rs. 90.0      
+---------------------------
+Total     : Rs.  210.0
+
+===== EXPENSE SUMMARY =====
+Date: 2026-06-16
+food       : Rs. 120.0     
+travel     : Rs. 90.0      
+---------------------------
+Total     : Rs. 210.0     

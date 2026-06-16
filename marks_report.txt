@@ -1,0 +1,11 @@
+===== STUDENT MARKS REPORT =====
+Name        Marks   Grade
+----------------------------
+ram          99      A
+ravi         39      F
+jegan        58      C
+tharun       78      B
+jenish       89      A
+----------------------------
+Class Average: 72.6
+Report saved to marks_report.txt

@@ -1,0 +1,9 @@
+
+===== LIBRARY RECORDS =====
+No. Title          Author    Status    
+--------------------------------------
+1   Introduction to pythonReema tharejaAvailable 
+2   c programming  yashwanth kanethkarIssued    
+3   em 1           balaji    Available 
+--------------------------------------
+Available: 2  |  Issued: 1
