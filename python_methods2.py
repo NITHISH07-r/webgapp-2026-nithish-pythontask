@@ -1,8 +1,8 @@
 class laptops:
     shop_name="laptop world"
-    def __init__(self,name,RAM):
+    def __init__(self,name,price):
         self.name=name
-        self.RAM=RAM
+        self.price=price
 
 laptop=[
     laptops("lenovo",40000),
@@ -12,4 +12,4 @@ laptop=[
 ]
 
 for laptops in laptop:
-    print(laptops.name,laptops.RAM,laptops.shop_name)
+    print(laptops.name,laptops.price,laptops.shop_name)
